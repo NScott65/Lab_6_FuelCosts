@@ -1,5 +1,3 @@
-import com.sun.org.apache.bcel.internal.classfile.SourceFile;
-
 import java.util.Scanner;
 
 public class Main {
